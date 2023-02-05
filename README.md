@@ -11,3 +11,10 @@
   
 * Co-occurrence Matrices
 ### Predicton-based Embedding
+ - Captures meaning and semantic relationships that a word might have with its neighboring words. 
+ - Low dimensional representation. 
+ - Generated using machine learning algorithms, generally unsupervised learning, that are trained on a huge corpus of text data. 
+ - Two popular ones are: 
+   - Word2Vec
+   - GloVe
+
